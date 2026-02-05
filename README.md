@@ -1,18 +1,15 @@
 # ❤️ Heart Disease Risk Predictor
 
-A **Web application** that predicts the **risk of heart disease** using a trained machine learning model. Users can input clinical and lifestyle parameters, and the app provides a **risk assessment**.
+A **web application** that predicts the **risk of heart disease** using a trained machine learning model. Users can input clinical and lifestyle parameters, and the app provides a **risk assessment**.
 
 ## Features
-
 - Predicts **high or low risk** of heart disease.
 - Uses **Logistic Regression** trained on patient data.
 - Provides a **user-friendly interface**.
 - Includes a sidebar with **instructions and medical disclaimer**.
 - Scales numeric inputs automatically for accurate predictions.
 
-
 ## Input Parameters
-
 - Age  
 - Sex (M/F)  
 - Chest Pain Type (ATA, NAP, ASY, TA)  
